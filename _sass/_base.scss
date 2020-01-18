@@ -191,11 +191,11 @@ p {
         position: absolute;
         right: 0;
         top: 0;
-        color: $text-blue;
+        color: darken($theme-color, 15%);
     }
     .company, .university {
         margin-bottom: 10px;
-        color: $text-grey;
+        color: darken($theme-color, 15%);
     }
 
     .project-title {
