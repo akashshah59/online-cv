@@ -191,19 +191,19 @@ p {
         position: absolute;
         right: 0;
         top: 0;
-        color: darken($theme-color, 15%);
+        color: $text-grey;
     }
     .company, .university {
         margin-bottom: 10px;
-        color: darken($theme-color, 15%);
+        color: $theme-color;
     }
 
     .project-title {
         font-size: 16px;
-        font-weight: 400;
+        font-weight: 500;
         margin-top: 0;
         margin-bottom: 5px;
-	color: darken($theme-color, 15%);
+	color: $text-color;
     }
     .projects-section {
         .intro {
@@ -220,6 +220,7 @@ p {
         color: $text-color;
         margin-bottom: 1px;
     }
+	
     .publication-authors {
         font-style: italic;
         color: $text-grey;
