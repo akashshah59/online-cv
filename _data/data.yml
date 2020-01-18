@@ -47,11 +47,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Currently a Graduate student at the University of California, San Diego, studying Data Science and Engineering. (Computer Science Department)
+        Graduate student at the University of California, San Diego, studying Data Science and Engineering. (Offered by the Computer Science Department and San Diego Supercomputer Centre)
 education:
-    - degree: MAS in Data Science
+    - degree: MAS in Data Science and Engineering.
       university: University of California , San Diego
-      time: Sep' 2019 - Jun' 2021
+      time: September 2019 - June 2021
       details: |
         In the Data Science and Engineering program, engineering professionals combine the skills of software programmer, database manager,
         and statistician to create mathematical models of the data, identify trends/deviations,
@@ -61,25 +61,25 @@ education:
 
     - degree: B.Tech in Computer Science and Engineering.
       university: University of Pune , India.
-      time: 2013 - 2017
+      time: July 2013 - May 2017
 
     - degree : Academic Exchange in Computer Science.
       university: Ryerson University, Toronto , Canada.
-      time : Aug 2015 - Dec 2017
+      time : August 2015 - December 2017
       details:
         - Computer Networks.
         - Database Systems.
         - Object Oriented System Design and Analysis.
 experiences:
     - role: Computational Data Scientist
-      time: Oct' 2019 - Present
+      time: October 2019 - Present
       company: Machine Learning for Social Sciences Lab, San Diego.
       details: |
         - Active collaberation with Political Scientists on creating a knowledge base for to tackle the problem of standardization
           of named entities and spaces in political science.
 
     - role: Software Engineer
-      time: Jul' 2017 - Jun' 2019
+      time: July 2017 - June 2019
       company: HSBC Technology , India .
       details: |
         - Developed an ETL framework, mainly SQL's to ingest Terabyte scale private banking data , daily from multiple regions in Hadoop using shell, Python , Hive.
@@ -92,12 +92,13 @@ experiences:
       time: Jan 2017 - Jun' 2017
       company: SAP, India
       details: |
-          - Bullet point
-          - Bullet point
+          - Wrote threaded code in Python to automate cleaning and archiving tasks on the SAP IQ Columnar Database.
+          - Developed a random data generator tool to test Database Indexes used across multiple teams.
+
 projects:
     title: Projects
     intro: >
-      Selected Academic and Personal projects.
+      Selected Projects.
     assignments:
       - title: Fraud Prevention using pattern matching in Graph Databases.
         link: "#hook"
@@ -129,23 +130,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Java & C , C ++
+        level: 90%
