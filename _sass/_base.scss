@@ -3,7 +3,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
-    font-size: 14px;
+    font-size: 18px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -73,7 +73,7 @@ p {
 
     .avatar {
         //used for profile image
-        max-width: 150px;
+        max-width: 200px;
         margin-bottom: 15px;
         border: 1px solid #fff;
         border-radius: 100%;
