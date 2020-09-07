@@ -98,8 +98,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Selected Projects.
-    assignments:
+    assignments: |
       - title: Fraud Prevention using pattern matching in Graph Databases.
         link: "#hook"
         tagline: "A predictive solution to fraud prevention using the power of linkage and relationships of a graph."
