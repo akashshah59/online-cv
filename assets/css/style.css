@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: url("../img/RIMG_6261.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -488,6 +488,16 @@ section {
   position: relative;
 }
 
+.project-title h4 {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #0563bb;
+  margin-bottom: 10px;
+}
+
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 18px;
@@ -538,6 +548,17 @@ section {
   margin-bottom: 30px;
 }
 
+.portfolio .project-title h4 {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #0563bb;
+  margin-bottom: 10px;
+}
+
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 25px auto;
@@ -574,7 +595,8 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(69, 80, 91, 0.8);
+/*  background: rgba(69, 80, 91, 0.8); */
+background: rgba(255,255,255,0.8);
 }
 
 .portfolio .portfolio-wrap::before {
@@ -690,6 +712,7 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+/*
 .services .icon-box {
   text-align: center;
   padding: 70px 20px 80px 20px;
@@ -819,6 +842,7 @@ section {
 .services .iconbox-teal:hover .icon path {
   fill: #11dbcf;
 }
+*/
 
 /*--------------------------------------------------------------
 # Testimonials
